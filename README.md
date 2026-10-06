@@ -2,7 +2,7 @@
 
 Glowing Omarchy wallpapers for mobile screens, now in ten color variants. Each has a nearly black background and room above the design for a clock or widgets.
 
-Companion wallpapers to the [Neon Glow Omarchy theme](https://github.com/ejuro/omarchy-neon-glow-theme).
+Companion wallpapers to the [Neon Glow Omarchy theme](https://github.com/erikrjohansson/omarchy-neon-glow-theme).
 
 ## Preview
 
